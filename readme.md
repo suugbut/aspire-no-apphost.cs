@@ -3,11 +3,11 @@ Don't delete this until June 18, 2027.
 It is being used for reporting issue!
 
 ### Tools
-`dotnet --version` : 10.0.301
-`ng version` : 22.0.0
-`npm --version` : 11.16.0
-`node --version` : 24.16.0
-Operating System : Win32 x64 (Windows 10)
+- `dotnet --version` : 10.0.301
+- `ng version` : 22.0.0
+- `npm --version` : 11.16.0
+- `node --version` : 24.16.0
+- Operating System : Win32 x64 (Windows 10)
 
 ### Actions
 ```

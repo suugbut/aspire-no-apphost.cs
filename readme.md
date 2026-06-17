@@ -3,6 +3,7 @@ Don't delete this until June 18, 2027.
 It is being used for reporting issue!
 
 ### Tools
+- `aspire --version` : 13.4.5(trimmed)
 - `dotnet --version` : 10.0.301
 - `ng version` : 22.0.0
 - `npm --version` : 11.16.0
